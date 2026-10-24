@@ -1,4 +1,4 @@
-# Building an Agent Without Framework
+# Building an Agent Without a Framework
 
 ### Part 01 - Building a Minimal AI Agent
 
